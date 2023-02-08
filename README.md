@@ -1,4 +1,4 @@
-# Signature-Matching
+# Signature-Verification System
 Application to detect the similarity of two signatures.
 
 This Application helps mathematically evaluate similarity of two signatures. 
@@ -23,7 +23,9 @@ The signatures are compared using structural_similarity in skimage.metrics packa
 ## Preview
 <!-- ![Preview](assets/Signature.gif) -->
 
-https://user-images.githubusercontent.com/51584907/140640842-b7cd3fe2-493a-469b-b121-5b9f02707bcf.mp4
+![image](https://user-images.githubusercontent.com/94166869/217559362-5af9c61b-78c0-4827-a8f5-164316dfc07f.png)
+![image](https://user-images.githubusercontent.com/94166869/217559444-5fcf673e-e407-4b66-b6d8-894f99f1f629.png)
+
 
 
 
